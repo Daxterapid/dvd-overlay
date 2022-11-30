@@ -3,7 +3,7 @@ Bouncing DVD Logo Overlay
 
 ## Screenshot
 <p align="center">
-  <img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screenshot.png" width="40%" height="40%">
+  <img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screenshot.png">
 </p>
 
 ## Building
