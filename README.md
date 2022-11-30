@@ -1,6 +1,11 @@
 # dvd-overlay
 Bouncing DVD Logo Overlay
 
+## Screenshot
+<p align="center">
+  <img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screenshot.png" width="40%" height="40%">
+</p>
+
 ## Building
 
 ### Windows
@@ -29,3 +34,9 @@ build\dvd_overlay.exe
 ```
 build/dvd_overlay
 ```
+
+## Contributing
+Feel free to open an issue or create a pull request if you find any issues or improvements!
+
+## Known issues
+* Image appears to have a white outline on bright backgrounds.
