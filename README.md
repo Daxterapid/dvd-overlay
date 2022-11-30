@@ -1,9 +1,10 @@
 # dvd-overlay
 Bouncing DVD Logo Overlay
 
-## Screenshot
+## Gallery
 <p align="center">
-  <img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screenshot.png">
+	<img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screencast.gif">
+  	<img src="https://github.com/Daxterapid/dvd-overlay/raw/master/screenshot.png">
 </p>
 
 ## Building
