@@ -1,3 +1,5 @@
+// TODO: Makefile should create build directory automatically
+
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
